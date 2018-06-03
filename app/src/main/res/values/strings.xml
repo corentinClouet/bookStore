@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="empty_view_text">No books found</string>
+    <string name="title_activity_editor">EditorActivity</string>
+</resources>
